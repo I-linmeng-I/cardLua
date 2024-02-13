@@ -1,4 +1,7 @@
---打ち出の小槌
+--村规决斗：随意选卡
+--把这张卡加入卡组后，双方开局这张卡里侧除外，然后把手卡任意张洗回卡组，然后抽出洗回数量的卡片
+
+
 function c66666082.initial_effect(c)
 	--Activate
 	if c66666082.reg then return end
